@@ -5,9 +5,10 @@
     <title>JSP - Surname Kuz</title>
 </head>
 <body>
-<h1><%= "Kuz" %>
+<h1><%= "Jakarta EE" %>
 </h1>
 <br/>
 <a href="surname-servlet">Surname Servlet</a>
+<a href="compInfo-servlet">CompInfo Servlet</a>
 </body>
 </html>
